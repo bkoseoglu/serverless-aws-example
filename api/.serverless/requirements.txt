@@ -8,5 +8,5 @@ awscli==1.16.50
 colorama==0.3.9
 itsdangerous==1.1.0
 pyasn1==0.4.4
-rsa==3.4.2
+rsa==4.7
 urllib3==1.24.1
